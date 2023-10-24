@@ -1,6 +1,8 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/final-3team/api
+	branch = dev
 [submodule "front"]
 	path = front
 	url = https://github.com/final-3team/front
+	branch = merge-test
