@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/final-3team/api
+[submodule "front"]
+	path = front
+	url = https://github.com/final-3team/front
